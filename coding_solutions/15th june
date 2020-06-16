@@ -1,11 +1,3 @@
-Skip to content
-Sanfoundry
-Menu
-
-C++ Program to Implement Triply Linked List
-« PrevNext »
-This C++ program implements the Triply Linked List which is a linked list which consists of three pointers which points to the element at the next and previous to it in addition to the element at the top.
-Here is the source code of the C++ program to display the sorted triply linked list by travelling head first and tail first. This C++ program is successfully compiled and run on DevCpp, a C++ compiler. The program output is given below.
 
 /*
  * C++ Program to Implement Triply Linked List
